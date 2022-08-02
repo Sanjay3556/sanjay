@@ -35,7 +35,7 @@ div {text-align: center;}
 
 <div class="login">
 <h2 >To predict whether person survived or not in Titanic Disaster</h2>
-<h4>Developed by Kartikey Sharma</h4>
+<h4>Developed by Sanjay Singh</h4>
 <!-- Main Input For Receiving Query to our ML -->
 <form action="{{ url_for('predict')}}"method="get">
 <div class="form-floating mb-3">
